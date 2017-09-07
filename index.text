@@ -1,0 +1,14 @@
+1.克隆可以获得分支而下载只能获得最新版本
+2.$git colne 克隆地址 项目名字
+	克隆文件 并且赋予其文件夹名字
+3.$git merge origin/master把远程仓库分支的改变合并到本地分支
+4.$git fetch 把获取地址更新
+5.$git pull origin mater获取新的全部
+6.$git log打印日志
+7.$git log --online 把日志转到一行
+8.$git log --online --all 把所有分支提交出来
+9.$git log --online -3 --graph 
+10.重命名 $git add  $git mv 新的名字
+11.移动文件夹
+12.删除文件
+13.恢复删除文件
